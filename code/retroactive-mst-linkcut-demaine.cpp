@@ -254,7 +254,7 @@ public:
 };
 
 const int N = 50011;
-const int M = 1000;
+const int M = sqrt(N) + 10;
 
 
 int tp;
