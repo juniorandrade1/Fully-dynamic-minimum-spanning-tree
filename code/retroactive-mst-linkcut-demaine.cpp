@@ -253,8 +253,8 @@ public:
   }
 };
 
-const int N = 100010;
-const int M = 2000;
+const int N = 50011;
+const int M = 1000;
 
 
 int tp;

@@ -125,6 +125,7 @@ int main() {
     }
   }
   
-  debug("Brute Prim: %.2fs\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
+  // debug("Brute Prim: %.2fs\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
+  debug("%.2f\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
   return 0;
 }
